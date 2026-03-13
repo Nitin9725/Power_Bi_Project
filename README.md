@@ -1,7 +1,6 @@
-📱 Mobile Sales Performance Dashboard (Summary)
-Objective: भारत के प्रमुख शहरों में ₹769M की मोबाइल बिक्री, ट्रांजेक्शन (4K) और ब्रांड प्रदर्शन का विश्लेषण करने के लिए एक Interactive Power BI Dashboard विकसित किया।
-Data Processing: Power Query का उपयोग करके डेटा क्लीनिंग की और DAX Measures के ज़रिए Total Sales, Quantity (19K), और Avg Price (40.11K) जैसे महत्वपूर्ण KPIs बनाए।
-Key Insights: डेटा से पता चला कि Apple & Samsung मार्केट लीडर्स हैं और UPI/Credit Cards (50%+) ग्राहकों की पहली पसंद हैं।
-Visualizations: मैप चार्ट्स (Geographic), लाइन चार्ट्स (Monthly Trends), और फनल चार्ट्स (Customer Ratings) के ज़रिए डेटा को आसान और समझने योग्य बनाया।
-Impact: यह डैशबोर्ड बिज़नेस को पीक सेल्स पीरियड (March/July) पहचानने और पेमेंट ट्रेंड्स के आधार पर मार्केटिंग रणनीति बनाने में मदद करता है।
-अगला कदम: क्या आप चाहते 
+📱 Mobile Sales Performance Dashboard
+Objective: Developed an interactive Power BI Dashboard to analyze ₹769M in mobile sales, tracking 4K+ transactions across major Indian cities.
+Data Engineering: Utilized Power Query for data transformation and DAX measures to calculate critical KPIs like Total Sales, Quantity (19K), and Avg. Unit Price (40.11K).
+Key Insights: Identified Apple and Samsung as market leaders and discovered that Digital Payments (UPI/Credit Cards) account for over 50% of total transactions.
+Visual Analytics: Implemented Geospatial Mapping (City-wise sales), Time-Series Analysis (Monthly trends), and Customer Sentiment tracking (Ratings).
+Business Value: Enabled data-driven decision-making by identifying peak sales periods (March/July) and consumer payment preferences to optimize marketing strategies.
